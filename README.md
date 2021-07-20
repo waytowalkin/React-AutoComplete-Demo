@@ -12,5 +12,12 @@
 ### server started and application running on default port: 3000
 ### Please find the below screen shots for your reference..
 ### Screenshot 1:
+![Screenshot1](https://user-images.githubusercontent.com/72045292/126250679-bb71f947-4ce7-472c-a40d-40d8adf02f4b.png)
+### Screen shot 2:
+![Screen shot2](https://user-images.githubusercontent.com/72045292/126250705-1af586cd-2ca9-4507-ad21-9062da22070a.png)
+### Screen shot 3: 
+![Screen shot3](https://user-images.githubusercontent.com/72045292/126250778-9015a879-00fd-4a01-8eee-ec392a058331.png)
+
+
 
 
